@@ -16,5 +16,9 @@ public class Main {
         /*System.out.println("Exercise 2:");
         Exercise2.isPrime();*/
 
+        //Exercise 3
+        /*System.out.println("Exercise 3:");
+        Exercise3.sumOfXY();*/
+
     }
 }
