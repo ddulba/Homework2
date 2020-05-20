@@ -1,4 +1,4 @@
-package pl.javapoz25;
+package pl.javapoz25.sda1;
 
 import java.util.Scanner;
 
@@ -34,5 +34,9 @@ public class Main {
         //Exercise 5
         /*System.out.println("Exercise 5:");
         Exercise5.minMaxTable();*/
+
+        //Exercise 6
+        /*System.out.println("Exercise 6:");
+        Exercise6.negativeNumbers();*/
     }
 }
