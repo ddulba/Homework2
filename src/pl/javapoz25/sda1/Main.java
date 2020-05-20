@@ -38,5 +38,9 @@ public class Main {
         //Exercise 6
         /*System.out.println("Exercise 6:");
         Exercise6.negativeNumbers();*/
+
+        //Exercise 7
+        /*System.out.println("Exercise 7:");
+        Exercise7.arithmeticSeries(1, 8, 2);*/
     }
 }
