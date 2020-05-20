@@ -42,5 +42,9 @@ public class Main {
         //Exercise 7
         /*System.out.println("Exercise 7:");
         Exercise7.arithmeticSeries(1, 8, 2);*/
+
+        //Exercise 8
+        System.out.println("Exercise 8:");
+        System.out.println(Exercise8.alternativeModulo(8, 2));
     }
 }
