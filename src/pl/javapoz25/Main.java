@@ -21,7 +21,7 @@ public class Main {
         Exercise3.sumOfXY();*/
 
         //Exercise 4
-        System.out.println("Exercise 4:");
+        /*System.out.println("Exercise 4:");
         int[] tab = new int[3];
         System.out.print("Podaj pierwszą liczbę: ");
         tab[0] = in.nextInt();
@@ -29,6 +29,10 @@ public class Main {
         tab[1] = in.nextInt();
         System.out.print("Podaj trzecią liczbę: ");
         tab[2] = in.nextInt();
-        Exercise4.switchTable(tab);
+        Exercise4.switchTable(tab);*/
+
+        //Exercise 5
+        /*System.out.println("Exercise 5:");
+        Exercise5.minMaxTable();*/
     }
 }
