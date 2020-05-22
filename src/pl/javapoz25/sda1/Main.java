@@ -44,9 +44,9 @@ public class Main {
         Exercise7.arithmeticSeries(1, 8, 2);*/
 
         //Exercise 8
-        System.out.println("Exercise 8:");
+        /*System.out.println("Exercise 8:");
         int[] tabEx8 = {1, 3, 4, 7, 9};
-        System.out.println(Exercise8.isArithmeticSeries(tabEx8));
+        System.out.println(Exercise8.isArithmeticSeries(tabEx8));*/
 
         //Exercise 9
         /*System.out.println("Exercise 9:");
@@ -56,5 +56,9 @@ public class Main {
         /*System.out.println("Exercise 10:");
         int[] tabEx10 = {8, 3, 10, 24};
         System.out.println(Exercise10.isModulo(tabEx10,4));*/
+
+        //Exercise 11
+        System.out.println("Exercise 11:");
+
     }
 }
